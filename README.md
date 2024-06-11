@@ -1,6 +1,7 @@
 # Alx Software Engineering 
 ## First Day Of Doing Hard Things
 This is the beginning of a lifelong learning. 
+Learning SE is streinous
 ## Todo Lists As a learner in ALX SE program
 * Login to the intranet daily.
 * Read through the daily tasks and note the requirement
